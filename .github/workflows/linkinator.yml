@@ -14,4 +14,3 @@ jobs:
         with:
           paths: endnotes.md
           concurrency: 25
-          markdown: true
