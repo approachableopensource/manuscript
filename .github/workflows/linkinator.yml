@@ -5,7 +5,7 @@ on:
   pull_request:
   workflow_dispatch:
   schedule:
-    cron: "0 15 * * 5" 
+      - cron: "0 15 * * 5" 
 name: ci
 jobs:
   linkinator:
