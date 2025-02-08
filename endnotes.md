@@ -6,11 +6,12 @@ disabled: false
 description: Links and references for further reading and exploration.
 ---
 
-<div class="content" data-astro-cid-pblewhxv=""> <h2 id="chapter-1-principles-and-promise">Chapter 1: Principles and Promise</h2>
+<h2 id="chapter-1-principles-and-promise">Chapter 1: Principles and Promise</h2>
+<p>
 <span id="jkvZLtxq5fnsdSAa-endnote-1714533323417">
     1.
     <a href="https://www.dictionaryofobscuresorrows.com/">https://www.dictionaryofobscuresorrows.com/</a>
-</span>
+</span></p>
 <p><span id="jkvZLtxq5fnsdSAa-endnote-1717241658051">2. <a href="#jkvZLtxq5fnsdSAa-endnote-1717241658051"></a><a href="https://www.dictionaryofobscuresorrows.com/post/23536922667/sonder">https://www.dictionaryofobscuresorrows.com/post/23536922667/sonder</a></span></p>
 <p><span id="jkvZLtxq5fnsdSAa-endnote-1714852406194">3. <a href="#jkvZLtxq5fnsdSAa-endnote-1714852406194"></a><a href="https://www.linuxfoundation.org/blog/blog/a-summary-of-census-ii-open-source-software-application-libraries-the-world-depends-on">https://www.linuxfoundation.org/blog/blog/a-summary-of-census-ii-open-source-software-application-libraries-the-world-depends-on</a></span></p>
 <p><span id="jkvZLtxq5fnsdSAa-endnote-1714852528157">4. <a href="#jkvZLtxq5fnsdSAa-endnote-1714852528157"></a><a href="https://www.hbs.edu/faculty/Pages/item.aspx?num=65230">https://www.hbs.edu/faculty/Pages/item.aspx?num=65230</a></span></p>
@@ -35,3 +36,49 @@ description: Links and references for further reading and exploration.
 <p><span id="jkvZLtxq5fnsdSAa-endnote-1714879726409">23. <a href="#jkvZLtxq5fnsdSAa-endnote-1714879726409"></a><a href="https://peps.python.org/pep-0008/">https://peps.python.org/pep-0008/</a></span></p>
 <p><span id="jkvZLtxq5fnsdSAa-endnote-1716599532950">24. <a href="#jkvZLtxq5fnsdSAa-endnote-1716599532950"></a><a href="https://patternlab.io/">https://patternlab.io/</a></span></p>
 <p><span id="jkvZLtxq5fnsdSAa-endnote-1714879937846">25. <a href="#jkvZLtxq5fnsdSAa-endnote-1714879937846"></a><a href="https://bradfrost.com/blog/post/creative-exhaust/">https://bradfrost.com/blog/post/creative-exhaust/</a></span></p>
+
+<h2 id="chapter-2-the-spectrum-of-engagement">Chapter 2: The Spectrum of Engagement</h2>
+<p><span id="UQCAHxvu89CnMaZs-endnote-1714882430497">26. <a href="#UQCAHxvu89CnMaZs-endnote-1714882430497"></a><a href="https://bradfrost.com/blog/post/just/">https://bradfrost.com/blog/post/just/</a></span></p>
+<p><span id="UQCAHxvu89CnMaZs-endnote-1714883029650">27. <a href="#UQCAHxvu89CnMaZs-endnote-1714883029650"></a><a href="https://maggieappleton.com/garden">https://maggieappleton.com/garden</a></span></p>
+<p><span id="UQCAHxvu89CnMaZs-endnote-1716176874315">28. <a href="#UQCAHxvu89CnMaZs-endnote-1716176874315"></a><a href="https://unsplash.com/photos/yellow-flowers-on-the-garden-bY_q4VodUc0">https://unsplash.com/photos/yellow-flowers-on-the-garden-bY_q4VodUc0</a></span></p>
+<p><span id="UQCAHxvu89CnMaZs-endnote-1714937942564">29. <a href="#UQCAHxvu89CnMaZs-endnote-1714937942564"></a><a href="https://beta.ada.gov/topics/intro-to-ada/">https://beta.ada.gov/topics/intro-to-ada/</a></span></p>
+<p><span id="UQCAHxvu89CnMaZs-endnote-1717246499581">30. <a href="#UQCAHxvu89CnMaZs-endnote-1717246499581"></a><a href="https://inclusive.microsoft.design/tools-and-activities/Inclusive101Guidebook.pdf">https://inclusive.microsoft.design/tools-and-activities/Inclusive101Guidebook.pdf</a></span></p>
+<p><span id="UQCAHxvu89CnMaZs-endnote-1714937983799">31. <a href="#UQCAHxvu89CnMaZs-endnote-1714937983799"></a><a href="https://www.barrierfreegolf.com/">https://www.barrierfreegolf.com/</a></span></p>
+<p><span id="UQCAHxvu89CnMaZs-endnote-1714938008335">32. <a href="#UQCAHxvu89CnMaZs-endnote-1714938008335"></a><a href="https://www.rampur.is/">https://www.rampur.is/</a></span></p>
+<p><span id="UQCAHxvu89CnMaZs-endnote-1714938037369">33. <a href="#UQCAHxvu89CnMaZs-endnote-1714938037369"></a><a href="https://www.phila.gov/2022-10-14-city-of-philadelphia-releases-statement-on-agreement-to-important-ada-class-action-settlement/">https://www.phila.gov/2022-10-14-city-of-philadelphia-releases-statement-on-agreement-to-important-ada-class-action-settlement/</a></span></p>
+<p><span id="UQCAHxvu89CnMaZs-endnote-1716869318619">34. <a href="#UQCAHxvu89CnMaZs-endnote-1716869318619"></a><a href="https://twitter.com/whitep4nth3r/status/1557092356138098699">https://twitter.com/whitep4nth3r/status/1557092356138098699</a></span></p>
+<p><span id="UQCAHxvu89CnMaZs-endnote-1714938993461">35. <a href="#UQCAHxvu89CnMaZs-endnote-1714938993461"></a><a href="https://twitter.com/flaviocopes/status/1417007331930423298">https://twitter.com/flaviocopes/status/1417007331930423298</a></span></p>
+<p><span id="UQCAHxvu89CnMaZs-endnote-1714939162926">36. <a href="#UQCAHxvu89CnMaZs-endnote-1714939162926"></a><a href="https://api.jquery.com/on/">https://api.jquery.com/on/</a></span></p>
+<p><span id="UQCAHxvu89CnMaZs-endnote-1716350745836">37. <a href="#UQCAHxvu89CnMaZs-endnote-1716350745836"></a><a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events#event_bubbling_and_capture">https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events#event_bubbling_and_capture</a></span></p>
+<p><span id="UQCAHxvu89CnMaZs-endnote-1714960047653">38. <a href="#UQCAHxvu89CnMaZs-endnote-1714960047653"></a><a href="https://github.com/scottjehl/picturefill">https://github.com/scottjehl/picturefill</a></span></p>
+<p><span id="UQCAHxvu89CnMaZs-endnote-1714960156099">39. <a href="#UQCAHxvu89CnMaZs-endnote-1714960156099"></a><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture">https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture</a></span></p>
+<p><span id="UQCAHxvu89CnMaZs-endnote-1714960225786">40. <a href="#UQCAHxvu89CnMaZs-endnote-1714960225786"></a><a href="https://www.apache.org/foundation/how-it-works.html#roles">https://www.apache.org/foundation/how-it-works.html#roles</a></span></p>
+<p><span id="UQCAHxvu89CnMaZs-endnote-1714960336189">41. <a href="#UQCAHxvu89CnMaZs-endnote-1714960336189"></a><a href="https://github.com/nodejs/node/issues/42828">https://github.com/nodejs/node/issues/42828</a></span></p>
+<p><span id="UQCAHxvu89CnMaZs-endnote-1714960404184">42. <a href="#UQCAHxvu89CnMaZs-endnote-1714960404184"></a><a href="https://github.com/nodejs/node/blob/main/doc/contributing/issues.md#triaging-a-bug-report">https://github.com/nodejs/node/blob/main/doc/contributing/issues.md#triaging-a-bug-report</a></span></p>
+<p><span id="UQCAHxvu89CnMaZs-endnote-1716177261203">43. <a href="#UQCAHxvu89CnMaZs-endnote-1716177261203"></a><a href="https://github.com/11ty/eleventy/issues?q=label%3Aneeds-votes+sort%3Areactions-%2B1-desc+label%3Aenhancement">https://github.com/11ty/eleventy/issues?q=label%3Aneeds-votes+sort%3Areactions-%2B1-desc+label%3Aenhancement</a></span></p>
+<p><span id="UQCAHxvu89CnMaZs-endnote-1714960670384">44. <a href="#UQCAHxvu89CnMaZs-endnote-1714960670384"></a><a href="https://web.archive.org/web/20130202062627/http://archive.aneventapart.com/2012/atlanta/?/2012/atlanta/">https://web.archive.org/web/20130202062627/http://archive.aneventapart.com/2012/atlanta/?/2012/atlanta/</a></span></p>
+<p><span id="UQCAHxvu89CnMaZs-endnote-1716870922023">45. <a href="#UQCAHxvu89CnMaZs-endnote-1716870922023"></a><a href="https://www.lukew.com/ff/entry.asp?1491">https://www.lukew.com/ff/entry.asp?1491</a></span></p>
+<p><span id="UQCAHxvu89CnMaZs-endnote-1714960887023">46. <a href="#UQCAHxvu89CnMaZs-endnote-1714960887023"></a><a href="https://docs.github.com/en/codespaces">https://docs.github.com/en/codespaces</a></span></p>
+<p><span id="UQCAHxvu89CnMaZs-endnote-1715049817637">47. <a href="#UQCAHxvu89CnMaZs-endnote-1715049817637"></a><a href="https://www.allthingsopen.org/">https://www.allthingsopen.org/</a></span></p>
+<p><span id="UQCAHxvu89CnMaZs-endnote-1715049858204">48. <a href="#UQCAHxvu89CnMaZs-endnote-1715049858204"></a><a href="https://events.linuxfoundation.org/">https://events.linuxfoundation.org/</a></span></p>
+<p><span id="UQCAHxvu89CnMaZs-endnote-1715050292162">49. <a href="#UQCAHxvu89CnMaZs-endnote-1715050292162"></a><a href="https://hacktoberfest.com/">https://hacktoberfest.com/</a></span></p>
+<p><span id="UQCAHxvu89CnMaZs-endnote-1716871008399">50. <a href="#UQCAHxvu89CnMaZs-endnote-1716871008399"></a><a href="https://hacktoberfest.com/participation/">https://hacktoberfest.com/participation/</a></span></p>
+<p><span id="UQCAHxvu89CnMaZs-endnote-1715051333059">51. <a href="#UQCAHxvu89CnMaZs-endnote-1715051333059"></a><a href="https://anitab-org.github.io/open-source-day/open-source-day/">https://anitab-org.github.io/open-source-day/open-source-day/</a></span></p>
+<p><span id="UQCAHxvu89CnMaZs-endnote-1715051516227">52. <a href="#UQCAHxvu89CnMaZs-endnote-1715051516227"></a><a href="https://nodejs.org/en/blog/announcements/diving-into-the-nodejs-website-redesign">https://nodejs.org/en/blog/announcements/diving-into-the-nodejs-website-redesign</a></span></p>
+<p><span id="UQCAHxvu89CnMaZs-endnote-1715051279542">53. <a href="#UQCAHxvu89CnMaZs-endnote-1715051279542"></a><a href="https://www.outreachy.org/">https://www.outreachy.org/</a></span></p>
+<p><span id="UQCAHxvu89CnMaZs-endnote-1715051602021">54. <a href="#UQCAHxvu89CnMaZs-endnote-1715051602021"></a><a href="https://github.com/AllInOpenSource/All-In">https://github.com/AllInOpenSource/All-In</a></span></p>
+<p><span id="UQCAHxvu89CnMaZs-endnote-1715051692003">55. <a href="#UQCAHxvu89CnMaZs-endnote-1715051692003"></a><a href="https://ohshitgit.com/">https://ohshitgit.com/</a></span></p>
+<p><span id="UQCAHxvu89CnMaZs-endnote-1715051725053">56. <a href="#UQCAHxvu89CnMaZs-endnote-1715051725053"></a><a href="https://flexboxfroggy.com/">https://flexboxfroggy.com/</a></span></p>
+<p><span id="UQCAHxvu89CnMaZs-endnote-1715051743761">57. <a href="#UQCAHxvu89CnMaZs-endnote-1715051743761"></a><a href="https://cssgridgarden.com/">https://cssgridgarden.com/</a></span></p>
+<p><span id="UQCAHxvu89CnMaZs-endnote-1715051771467">58. <a href="#UQCAHxvu89CnMaZs-endnote-1715051771467"></a><a href="http://www.csszengarden.com/">http://www.csszengarden.com/</a></span></p>
+<p><span id="UQCAHxvu89CnMaZs-endnote-1715051791284">59. <a href="#UQCAHxvu89CnMaZs-endnote-1715051791284"></a><a href="https://stylestage.dev/">https://stylestage.dev/</a></span></p>
+<p><span id="UQCAHxvu89CnMaZs-endnote-1715051960441">60. <a href="#UQCAHxvu89CnMaZs-endnote-1715051960441"></a><a href="https://opencollective.com/">https://opencollective.com/</a></span></p>
+<p><span id="UQCAHxvu89CnMaZs-endnote-1715051994931">61. <a href="#UQCAHxvu89CnMaZs-endnote-1715051994931"></a><a href="https://www.patreon.com/">https://www.patreon.com/</a></span></p>
+<p><span id="UQCAHxvu89CnMaZs-endnote-1715052026567">62. <a href="#UQCAHxvu89CnMaZs-endnote-1715052026567"></a><a href="https://github.blog/2022-02-02-new-sponsors-only-repositories-custom-amounts-and-more/">https://github.blog/2022-02-02-new-sponsors-only-repositories-custom-amounts-and-more/</a></span></p>
+<p><span id="UQCAHxvu89CnMaZs-endnote-1715052349781">63. <a href="#UQCAHxvu89CnMaZs-endnote-1715052349781"></a><a href="https://jestjs.io/blog/2020/05/05/jest-26#stay-safe">https://jestjs.io/blog/2020/05/05/jest-26#stay-safe</a></span></p>
+<p><span id="UQCAHxvu89CnMaZs-endnote-1715052132033">64. <a href="#UQCAHxvu89CnMaZs-endnote-1715052132033"></a><a href="https://openssf.org/community/alpha-omega/">https://openssf.org/community/alpha-omega/</a></span></p>
+<p><span id="UQCAHxvu89CnMaZs-endnote-1715052193450">65. <a href="#UQCAHxvu89CnMaZs-endnote-1715052193450"></a><a href="https://trends.builtwith.com/javascript/jQuery">https://trends.builtwith.com/javascript/jQuery</a></span></p>
+<p><span id="UQCAHxvu89CnMaZs-endnote-1715052248514">66. <a href="#UQCAHxvu89CnMaZs-endnote-1715052248514"></a><a href="https://commission.europa.eu/about-european-commission/departments-and-executive-agencies/informatics/eu-fossa-2-free-and-open-source-software-auditing_en">https://commission.europa.eu/about-european-commission/departments-and-executive-agencies/informatics/eu-fossa-2-free-and-open-source-software-auditing_en</a></span></p>
+<p><span id="UQCAHxvu89CnMaZs-endnote-1716871589938">67. <a href="#UQCAHxvu89CnMaZs-endnote-1716871589938"></a><a href="https://aworkinglibrary.com/writing/no-one-is-non-technical">https://aworkinglibrary.com/writing/no-one-is-non-technical</a></span></p>
+<p><span id="UQCAHxvu89CnMaZs-endnote-1715052808089">68. <a href="#UQCAHxvu89CnMaZs-endnote-1715052808089"></a><a href="https://allcontributors.org/">https://allcontributors.org/</a></span></p>
+<p><span id="UQCAHxvu89CnMaZs-endnote-1715052855255">69. <a href="#UQCAHxvu89CnMaZs-endnote-1715052855255"></a><a href="https://allcontributors.org/docs/en/emoji-key">https://allcontributors.org/docs/en/emoji-key</a></span></p>
