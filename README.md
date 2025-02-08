@@ -16,6 +16,7 @@ This repo contains the text contents of [_Approachable Open Source_](https://app
 An "illuminated" copy of this manuscript has working links and images, and can be read at:
 
 1. [Chapter 1: Principles and Promise](https://approachableopensource.com/read/principles_and_promise) | [Source](./chapter1.md)
+1. [Chapter 2: The Spectrum of Engagement](https://approachableopensource.com/read/principles_and_promise) | [Source](./chapter2.md)
 
 ## About _Approachable Open Source_
 
