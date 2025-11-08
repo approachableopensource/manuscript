@@ -17,6 +17,9 @@ An "illuminated" copy of this manuscript has working links and images, and can b
 
 1. [Chapter 1: Principles and Promise](https://approachableopensource.com/read/principles_and_promise) | [Source](./chapter1.md)
 1. [Chapter 2: The Spectrum of Engagement](https://approachableopensource.com/read/principles_and_promise) | [Source](./chapter2.md)
+1. [Chapter 3: Consuming Open Source Software](https://approachableopensource.com/read/consuming_open_source_software) | [Source](./chapter3.md)
+
+> I use this to also track broken links over time.
 
 ## About _Approachable Open Source_
 
