@@ -1,9 +1,19 @@
 {
-    "skip": [
-        "https://medium.com/@jessitron/symmathecist-n-c728957ce71f",
-        "https://www.computerhistory.org/revolution/personal-computers/17/312/2311",
-        "https://www.gnu.org/philosophy/free-sw.en.html",
-        "https://trends.builtwith.com/javascript/jQuery",
-        "https://www.patreon.com/"
-    ]
+  "skip": [
+    "https://medium.com/@jessitron/symmathecist-n-c728957ce71f",
+    "https://www.computerhistory.org/revolution/personal-computers/17/312/2311",
+    "https://www.gnu.org/philosophy/free-sw.en.html",
+    "https://trends.builtwith.com/javascript/jQuery",
+    "https://www.patreon.com/",
+    "https://www.npmjs.com/package/size-limit",
+    "https://www.reddit.com/r/pics/comments/yxu5e6/starbucks_is_over_an_hour_behind_on_their_first/",
+    "https://npmjs.org/",
+    "https://codepen.io/bmuenzenmeyer/pen/zYaNNYZ/6947c6986803f47d9b2ee319ce2d59b7",
+    "https://codepen.io/bmuenzenmeyer/pen/XWYppKR/b9f7bc0568319a35df03bb51096f5054",
+    "https://codepen.io/bmuenzenmeyer/pen/RwJKKaq/e220ec08eb2300bd7e0888ae08ad33e8?editors=0010",
+    "https://www.npmjs.com/package/license-checker",
+    "https://www.npmjs.com/package/express",
+    "https://www.npmjs.com/package/axios",
+    "https://npmtrends.com/date-fns-vs-dayjs-vs-luxon-vs-moment"
+  ]
 }
