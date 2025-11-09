@@ -114,10 +114,8 @@ description: Links and references for further reading and exploration.
 <p><span id="4crLX1qKVGPP2R0o-endnote-1715312689755">97. <a href="#4crLX1qKVGPP2R0o-endnote-1715312689755"></a><a href="https://snyk.io/blog/npm-dependency-confusion-attack-gxm-reference/">https://snyk.io/blog/npm-dependency-confusion-attack-gxm-reference/</a></span></p>
 <p><span id="4crLX1qKVGPP2R0o-endnote-1715312848416">98. <a href="#4crLX1qKVGPP2R0o-endnote-1715312848416"></a><a href="https://youmightnotneedjquery.com/">https://youmightnotneedjquery.com/</a></span></p>
 <p><span id="4crLX1qKVGPP2R0o-endnote-1715312936805">99. <a href="#4crLX1qKVGPP2R0o-endnote-1715312936805"></a><a href="http://youmightnotneedjs.com/">http://youmightnotneedjs.com/</a></span></p>
-<p><a href="4crLX1qKVGPP2R0o-endnote-1716871780241">100.</a><a href="https://www.reddit.com/r/pics/comments/yxu5e6/starbucks_is_over_an_hour_behind_on_their_first">https://www.reddit.com/r/pics/comments/yxu5e6/starbucks_is_over_an_hour_behind_on_their_first
-</a></p>
-<p><a href="4crLX1qKVGPP2R0o-endnote-1715397283406">101.</a><a href="https://codepen.io/bmuenzenmeyer/pen/zYaNNYZ/6947c6986803f47d9b2ee319ce2d59b7">https://codepen.io/bmuenzenmeyer/pen/zYaNNYZ/6947c6986803f47d9b2ee319ce2d59b7
-</a></p>
+<p><span id="4crLX1qKVGPP2R0o-endnote-1716871780241">100. <a href="#4crLX1qKVGPP2R0o-endnote-1716871780241"></a><a href="https://www.reddit.com/r/pics/comments/yxu5e6/starbucks_is_over_an_hour_behind_on_their_first/">https://www.reddit.com/r/pics/comments/yxu5e6/starbucks_is_over_an_hour_behind_on_their_first/</a></span></p>
+<p><span id="4crLX1qKVGPP2R0o-endnote-1715397283406">101. <a href="#4crLX1qKVGPP2R0o-endnote-1715397283406"></a><a href="https://codepen.io/bmuenzenmeyer/pen/zYaNNYZ/6947c6986803f47d9b2ee319ce2d59b7">https://codepen.io/bmuenzenmeyer/pen/zYaNNYZ/6947c6986803f47d9b2ee319ce2d59b7</a></span></p>
 <p><span id="4crLX1qKVGPP2R0o-endnote-1715397318845">102. <a href="#4crLX1qKVGPP2R0o-endnote-1715397318845"></a><a href="https://bundlephobia.com/package/moment@2.29.4">https://bundlephobia.com/package/moment@2.29.4</a></span></p>
 <p><span id="4crLX1qKVGPP2R0o-endnote-1715397398440">103. <a href="#4crLX1qKVGPP2R0o-endnote-1715397398440"></a><a href="https://momentjs.com/docs/#/-project-status/">https://momentjs.com/docs/#/-project-status/</a></span></p>
 <p><span id="4crLX1qKVGPP2R0o-endnote-1715397435130">104. <a href="#4crLX1qKVGPP2R0o-endnote-1715397435130"></a><a href="https://bundlephobia.com/package/dayjs@1.11.5">https://bundlephobia.com/package/dayjs@1.11.5</a></span></p>
@@ -131,8 +129,7 @@ description: Links and references for further reading and exploration.
 <p><span id="4crLX1qKVGPP2R0o-endnote-1715399972750">112. <a href="#4crLX1qKVGPP2R0o-endnote-1715399972750"></a><a href="https://npmtrends.com/date-fns-vs-dayjs-vs-luxon-vs-moment">https://npmtrends.com/date-fns-vs-dayjs-vs-luxon-vs-moment</a></span></p>
 <p><span id="4crLX1qKVGPP2R0o-endnote-1717361427001">113. <a href="#4crLX1qKVGPP2R0o-endnote-1717361427001"></a><a href="https://www.typescriptlang.org/">https://www.typescriptlang.org/</a></span></p>
 <p><span id="4crLX1qKVGPP2R0o-endnote-1717361367638">114. <a href="#4crLX1qKVGPP2R0o-endnote-1717361367638"></a><a href="https://jsdoc.app/about-getting-started">https://jsdoc.app/about-getting-started</a></span></p>
-<p><a href="4crLX1qKVGPP2R0o-endnote-1716872158948">115.</a><a href="https://css-irl.info/disentangling-frameworks/">https://css-irl.info/disentangling-frameworks/
-</a></p>
+<p><span id="4crLX1qKVGPP2R0o-endnote-1716872158948">115. <a href="#4crLX1qKVGPP2R0o-endnote-1716872158948"></a><a href="https://css-irl.info/disentangling-frameworks/">https://css-irl.info/disentangling-frameworks/</a></span></p>
 <p><span id="4crLX1qKVGPP2R0o-endnote-1715400396227">116. <a href="#4crLX1qKVGPP2R0o-endnote-1715400396227"></a><a href="https://developer.chrome.com/blog/smooshgate/">https://developer.chrome.com/blog/smooshgate/</a></span></p>
 <p><span id="4crLX1qKVGPP2R0o-endnote-1715400430923">117. <a href="#4crLX1qKVGPP2R0o-endnote-1715400430923"></a><a href="https://mootools.net/">https://mootools.net/</a></span></p>
 <p><span id="4crLX1qKVGPP2R0o-endnote-1715400519052">118. <a href="#4crLX1qKVGPP2R0o-endnote-1715400519052"></a><a href="https://tc39.es/proposal-flatMap/">https://tc39.es/proposal-flatMap/</a></span></p>
