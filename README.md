@@ -16,8 +16,12 @@ This repo contains the text contents of [_Approachable Open Source_](https://app
 An "illuminated" copy of this manuscript has working links and images, and can be read at:
 
 1. [Chapter 1: Principles and Promise](https://approachableopensource.com/read/principles_and_promise) | [Source](./chapter1.md)
-1. [Chapter 2: The Spectrum of Engagement](https://approachableopensource.com/read/principles_and_promise) | [Source](./chapter2.md)
+1. [Chapter 2: The Spectrum of Engagement](https://approachableopensource.com/read/the_spectrum_of_engagement) | [Source](./chapter2.md)
 1. [Chapter 3: Consuming Open Source Software](https://approachableopensource.com/read/consuming_open_source_software) | [Source](./chapter3.md)
+1. [Chapter 4: The Four Files of Any Open Source Project](https://approachableopensource.com/read/the_four_files_of_any_open_source_project) | [Source](./chapter4.md)
+1. [Chapter 5: Community Investment](https://approachableopensource.com/read/community_investment) | [Source](./chapter5.md)
+1. [Chapter 6: Open Source in the Workplace](https://approachableopensource.com/read/open_source_in_the_workplace) | [Source](./chapter6.md)
+1. [Chapter 7: Open Source Sustainability](https://approachableopensource.com/read/open_source_sustainability) | [Source](./chapter7.md)
 
 > I use this to also track broken links over time.
 
